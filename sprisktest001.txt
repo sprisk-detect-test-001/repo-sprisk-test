@@ -1,0 +1,4 @@
+"AadClientId": "a6ad07b2-fe08-41bc-98af-e7da74a4c8d6",
+"AadSecret": "HWa8Q~eq8BLGuyhYInP7-b1cBh3kj6xRKm-q-beU",
+"AadTenantDomain": "courtscloud.onmicrosoft.com",
+"AadTenantId": "590ae73a-3e97-47a1-9146-d8223fb7c1fd",
